@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Loni Halsted-Ruelas / Site Title"
+title                    : "Loni;s Homepage"
 title_separator          : "-"
 name                     : &name "Loni Halsted-Ruelas"
 description              : &description "Loni's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Loni"
+  name             : "Loni Halsted-Ruelas"
   pronouns         : # example: "she/her"  
-  bio              : "Human-Robot Interaction Researcher"
+  bio              : "Human-Robot Interaction"
   location         : "USA"
   employer         : "Oregon State University"
   uri              : # URL
