@@ -17,14 +17,14 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /file/Master Resume and CV 2025.docx (2).pdf/
     
   # - title: "CV"
   #   url: /cv-json/
