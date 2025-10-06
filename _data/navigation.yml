@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: "https://scholar.google.com/citations?user=NUQZF5EAAAAJ&hl=en"
+    url: https://scholar.google.com/citations?user=NUQZF5EAAAAJ&hl=en
 
   # - title: "Talks"
   #   url: /talks/    
@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: ../file/Master Resume and CV 2025.docx (2).pdf
+    url: /files/Master Resume and CV 2025.docx (2).pdf
     
   # - title: "CV"
   #   url: /cv-json/
