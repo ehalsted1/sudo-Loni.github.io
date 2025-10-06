@@ -7,10 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at Oregon State University in the Robotics Program.
+Graduate Research Assistant @ SHARE Lab OSU
+Robotics PhD Student, Oregon State University College of Engineering
+Graf Hall
 
-My research interests are in human-robot interaction, computer vision, robotic training methods, world models, and AI safety for non-general populations.
+- Bio
+- =======
 
-My purpose is to help others by leveraging my skills in connecting with communities, research, and problem-solving to address healthcare gaps through designing ethical AI and robotic systems, ultimately aiming to create accessible, ethical and compassionate healthcare solutions for caregivers and patients alike.
+I am a first year PhD student at Oregon State University in the Robotics Program. My research experience is in Computer Vision, Machine Learning, Deep Learning, and Human-Robot Interaction.  
+
+- Education
+- =======
+
+BS in Computer Science, University of California Santa Cruz
+AS in Computer Science, Foothill College
+
+- About
+- =======
+
+My purpose is to help others by leveraging my skills in connecting with communities and design thinking to address healthcare gaps through designing ethical AI and robotic systems, ultimately aiming to create accessible and safe healthcare solutions for non-general populations.
+
+I am a professional member of SHPE, and associated with ACM-W. Baile folklorico has been a source of joy for me from childhood, and I am a proud alumna of Grupo Folklorico Los Mejicas de UCSC and Raices de Mexico. 
 
 
