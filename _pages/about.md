@@ -11,19 +11,19 @@ Graduate Research Assistant @ SHARE Lab OSU
 Robotics PhD Student, Oregon State University College of Engineering
 Graf Hall
 
-- Bio
-- =======
+Bio
+=======
 
 I am a first year PhD student at Oregon State University in the Robotics Program. My research experience is in Computer Vision, Machine Learning, Deep Learning, and Human-Robot Interaction.  
 
-- Education
-- =======
+Education
+=======
 
-BS in Computer Science, University of California Santa Cruz
-AS in Computer Science, Foothill College
+- BS in Computer Science, University of California Santa Cruz
+- AS in Computer Science, Foothill College
 
-- About
-- =======
+About Me
+=======
 
 My purpose is to help others by leveraging my skills in connecting with communities and design thinking to address healthcare gaps through designing ethical AI and robotic systems, ultimately aiming to create accessible and safe healthcare solutions for non-general populations.
 
