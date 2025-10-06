@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Graduate Research Assistant @ SHARE (https://osusharelab.com/) Lab OSU
+Graduate Research Assistant @ [SHARE Lab] (https://osusharelab.com/) OSU
 
 Robotics PhD Student, Oregon State University College of Engineering
 
