@@ -11,7 +11,6 @@ Graduate Research Assistant @ SHARE (https://osusharelab.com/) Lab OSU
 
 Robotics PhD Student, Oregon State University College of Engineering
 
-Graf Hall
 
 Bio
 =======
@@ -29,6 +28,6 @@ About Me
 
 My purpose is to help others by leveraging my skills in connecting with communities and design thinking to address healthcare gaps through designing ethical AI and robotic systems, ultimately aiming to create accessible and safe healthcare solutions for non-general populations.
 
-I am a professional member of SHPE, and associated with ACM-W. Baile Folklorico has been a source of joy for me from childhood, and I am a proud alumna of Grupo Folklorico Los Mejicas de UCSC and Raices de Mexico. 
+I am a professional member of SHPE, and associated with ACM-W. Baile Folklorico has been a source of joy throughout my life, and I am a proud alumna of Grupo Folklorico Los Mejicas de UCSC and Raices de Mexico. 
 
 
